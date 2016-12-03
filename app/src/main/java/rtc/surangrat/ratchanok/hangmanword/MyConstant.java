@@ -14,41 +14,42 @@ public class MyConstant {
     public String[] getQuestionStrings() {
 
         questionStrings = new String[35];
-        questionStrings[0] = "blue";
-        questionStrings[1] = "pink";
-        questionStrings[2] = "nine";
-        questionStrings[3] = "four";
-        questionStrings[4] = "good";
-        questionStrings[5] = "name";
-        questionStrings[6] = "duck";
-        questionStrings[7] = "vase";
-        questionStrings[8] = "bell";
-        questionStrings[9] = "hand";
-        questionStrings[10] = "lamp";
-        questionStrings[11] = "book";
-        questionStrings[12] = "bird";
-        questionStrings[13] = "ring";
-        questionStrings[14] = "milk";
-        questionStrings[15] = "sock";
-        questionStrings[16] = "year";
-        questionStrings[17] = "fish";
-        questionStrings[18] = "frog";
-        questionStrings[19] = "ship";
-        questionStrings[20] = "king";
-        questionStrings[21] = "wind";
-        questionStrings[22] = "desk";
-        questionStrings[23] = "star";
-        questionStrings[24] = "girl";
-        questionStrings[25] = "tree";
-        questionStrings[26] = "hair";
-        questionStrings[27] = "ball";
-        questionStrings[28] = "foot";
-        questionStrings[29] = "nose";
-        questionStrings[30] = "food";
-        questionStrings[31] = "rice";
-        questionStrings[32] = "door";
-        questionStrings[33] = "song";
-        questionStrings[34] = "cold";
+        questionStrings[0] = "สีน้ำเงิน";
+        questionStrings[1] = "สีชมพู";
+        questionStrings[2] = "เก้า";
+        questionStrings[3] = "สี่";
+        questionStrings[4] = "ดี";
+        questionStrings[5] = "ชื่อ";
+        questionStrings[6] = "เป็ด";
+        questionStrings[7] = "แจกัน";
+        questionStrings[8] = "กระดิ่ง";
+        questionStrings[9] = "มือ";
+        questionStrings[10] = "โคมไฟ";
+        questionStrings[11] = "หนังสือ";
+        questionStrings[12] = "นก";
+        questionStrings[13] = "แหวน";
+        questionStrings[14] = "นม";
+        questionStrings[15] = "ถุงเท้า";
+        questionStrings[16] = "ปี";
+        questionStrings[17] = "ปลา";
+        questionStrings[18] = "กบ";
+        questionStrings[19] = "เรือ";
+        questionStrings[20] = "ราชา";
+        questionStrings[21] = "ลม";
+        questionStrings[22] = "โต๊ะเรียน";
+        questionStrings[23] = "ดาว";
+        questionStrings[24] = "เด็กผู้หญิง";
+        questionStrings[25] = "ต้นไม้";
+        questionStrings[26] = "ผม";
+        questionStrings[27] = "ลูกบอล";
+        questionStrings[28] = "เท้า";
+        questionStrings[29] = "จมูก";
+        questionStrings[30] = "อาหาร";
+        questionStrings[31] = "ข้าว";
+        questionStrings[32] = "ประตู";
+        questionStrings[33] = "เพลง";
+        questionStrings[34] = "หนาว";
+
 
 
         return questionStrings;
@@ -57,48 +58,49 @@ public class MyConstant {
     public String[] getAnswerStrings() {
 
         answerString = new String[35];
-        answerString[0] = "สีน้ำเงิน";
-        answerString[1] = "สีชมพู";
-        answerString[2] = "เก้า";
-        answerString[3] = "สี่";
-        answerString[4] = "ดี";
-        answerString[5] = "ชื่อ";
-        answerString[6] = "เป็ด";
-        answerString[7] = "แจกัน";
-        answerString[8] = "กระดิ่ง";
-        answerString[9] = "มือ";
-        answerString[10] = "โคมไฟ";
-        answerString[11] = "หนังสือ";
-        answerString[12] = "นก";
-        answerString[13] = "แหวน";
-        answerString[14] = "นม";
-        answerString[15] = "ถุงเท้า";
-        answerString[16] = "ปี";
-        answerString[17] = "ปลา";
-        answerString[18] = "กบ";
-        answerString[19] = "เรือ";
-        answerString[20] = "ราชา";
-        answerString[21] = "ลม";
-        answerString[22] = "โต๊ะเรียน";
-        answerString[23] = "ดาว";
-        answerString[24] = "เด็กผู้หญิง";
-        answerString[25] = "ต้นไม้";
-        answerString[26] = "ผม";
-        answerString[27] = "ลูกบอล";
-        answerString[28] = "เท้า";
-        answerString[29] = "จมูก";
-        answerString[30] = "อาหาร";
-        answerString[31] = "ข้าว";
-        answerString[32] = "ประตู";
-        answerString[33] = "เพลง";
-        answerString[34] = "หนาว";
+        answerString[0] = "blue";
+        answerString[1] = "ping";
+        answerString[2] = "nine";
+        answerString[3] = "four";
+        answerString[4] = "good";
+        answerString[5] = "name";
+        answerString[6] = "duck";
+        answerString[7] = "vase";
+        answerString[8] = "bell";
+        answerString[9] = "hand";
+        answerString[10] = "lamp";
+        answerString[11] = "book";
+        answerString[12] = "bird";
+        answerString[13] = "ring";
+        answerString[14] = "milk";
+        answerString[15] = "sock";
+        answerString[16] = "year";
+        answerString[17] = "fish";
+        answerString[18] = "frog";
+        answerString[19] = "ship";
+        answerString[20] = "king";
+        answerString[21] = "wind";
+        answerString[22] = "desk";
+        answerString[23] = "star";
+        answerString[24] = "girl";
+        answerString[25] = "tree";
+        answerString[26] = "hair";
+        answerString[27] = "ball";
+        answerString[28] = "foot";
+        answerString[29] = "nose";
+        answerString[30] = "food";
+        answerString[31] = "rice";
+        answerString[32] = "door";
+        answerString[33] = "song";
+        answerString[34] = "cold";
+
 
         return answerString;
     }
 
     public String[] getQuestion2Strings() {
 
-        question2Strings = new String[20];
+        question2Strings = new String[35];
         question2Strings[0] = "season";
         question2Strings[1] = "banana";
         question2Strings[2] = "yogurt";
@@ -135,19 +137,21 @@ public class MyConstant {
         question2Strings[33] = "danger";
         question2Strings[34] = "beauty";
 
+
+
         return question2Strings;
     }
 
     public String[] getAnswer2Strings() {
 
-        answer2String = new String[20];
-        answer2String[0] = "ฤดู";
-        answer2String[1] = "กล้อย";
-        answer2String[2] = "โยเกิร์ท";
-        answer2String[3] = "เทนนิส";
-        answer2String[4] = "ค้นหา";
-        answer2String[5] = "สัญลักษณ์";
-        answer2String[6] = "ชกมวย";
+        answer2String = new String[35];
+        answer2String[0] = "season";
+        answer2String[1] = "banana";
+        answer2String[2] = "Yogurt";
+        answer2String[3] = "Tennis";
+        answer2String[4] = "Search";
+        answer2String[5] = "Symbol";
+        answer2String[6] = "Boxing";
         answer2String[7] = "ทุเรียน";
         answer2String[8] = "ช่างตัดผม";
         answer2String[9] = "คุกกี้";
@@ -177,10 +181,12 @@ public class MyConstant {
         answer2String[33] = "อันตราย";
         answer2String[34] = "ความสวยงาม";
 
+
         return answer2String;
     }
 
     public String[] getQuestion3Strings() {
+
 
         question3Strings = new String[35];
         question3Strings[0] = "birthday";
@@ -219,10 +225,12 @@ public class MyConstant {
         question3Strings[33] = "bachelor";
         question3Strings[34] = "describe";
 
+
         return question3Strings;
     }
 
     public String[] getAnswer3Strings() {
+
 
         answer3Strings = new String[35];
         answer3Strings[0] = "วันเกิด";
@@ -260,6 +268,7 @@ public class MyConstant {
         answer3Strings[32] = "ความป่าเถื่อน";
         answer3Strings[33] = "บรรฑิต";
         answer3Strings[34] = "บรรยาย";
+
 
         return answer3Strings;
     }
