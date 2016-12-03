@@ -13,14 +13,85 @@ public class MyConstant {
 
     public String[] getQuestionStrings() {
 
-        questionStrings = new String[]{"1234", "5678", "8765", "4321"};
+        questionStrings = new String[35];
+        questionStrings[0] = "abcd";
+        questionStrings[1] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+        questionStrings[0] = "abcd";
+
 
         return questionStrings;
     }
 
     public String[] getAnswerStrings() {
 
-        answerString = new String[]{"1234", "5678", "8765", "4321"};
+        answerString = new String[35];
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
+        answerString[0] = "อีฟ";
 
         return answerString;
     }
@@ -80,10 +151,52 @@ public class MyConstant {
     }
 
     public String[] getQuestion3Strings() {
+
+        question3Strings = new String[35];
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+        question3Strings[0] = "abcdefgy";
+
         return question3Strings;
     }
 
     public String[] getAnswer3Strings() {
+
+        answer3Strings = new String[35];
+        answer3Strings[0] = "สุ";
+
         return answer3Strings;
     }
 }   // Main Class
