@@ -90,6 +90,60 @@
 
     </LinearLayout>
 
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:layout_below="@+id/textView3"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:maxLength="1"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:textSize="36sp"
+             />
+
+        <TextView
+            android:id="@+id/textview7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:maxLength="1"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:textSize="36sp"
+             />
+
+        <TextView
+            android:id="@+id/textview8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:maxLength="1"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:textSize="36sp"
+             />
+
+        <TextView
+            android:id="@+id/textview9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:maxLength="1"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:textSize="36sp"
+             />
+
+    </LinearLayout>
+
     <TextView
         android:text="30 sec"
         android:layout_width="wrap_content"
